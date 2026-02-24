@@ -1,4 +1,4 @@
-![image](https://github.com/aw3stm/PM-Project-Anna-Vestman/blob/main/ReadMe_Anna.png?raw=true)
+![image](https://github.com/aw3stm/PM-Project-Anna-Vestman/blob/main/ReadMe_img.png?raw=true)
 
 - 🔭 I'm currently working on **portfolio**
 
