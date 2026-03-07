@@ -1,14 +1,15 @@
-![image](https://github.com/aw3stm/PM-Project-Anna-Vestman/blob/main/ReadMe_img.png?raw=true)
+<p align "center"><img src="https://github.com/aw3stm/aw3stm/blob/main/ReadMe_Anna2.png?raw=true">
+</p>
 
-- 🔭 I'm currently working on **portfolio**
+-  I'm currently working on **portfolio**
 
-- 🌱 I'm currently learning **JavaScript, frameworks**
+-  I'm currently learning **JavaScript, frameworks**
 
-- 👯 I'm looking to collaborate on **anything fun**
+-  I'm looking to collaborate on **anything fun**
 
-- 🤝 I'm looking for help with **learning React**
+-  I'm looking for help with **learning React**
 
-- 📫 How to reach me **anna.v.westman@gmail.com**
+-  How to reach me **anna.v.westman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
