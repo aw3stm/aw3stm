@@ -1,7 +1,7 @@
 <p align "center"><img src="https://github.com/aw3stm/aw3stm/blob/main/ReadMe_Anna2.png?raw=true">
 </p>
 
--  I'm currently working on **portfolio**
+-  I'm currently working on my **portfolio**
 
 -  I'm currently learning **JavaScript, frameworks**
 
